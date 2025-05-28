@@ -1,4 +1,4 @@
 def a(x):
     print(x)
 
-a(5)
+a(int(input('x')))
