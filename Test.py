@@ -1,0 +1,4 @@
+def a(x):
+    print(x)
+
+a(5)
