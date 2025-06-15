@@ -1,4 +1,4 @@
-def a(x):
-    print(x)
-
-a(int(input('x')))
+for q in range(5):
+    for w in range(q + 1):
+        print('0',end='')
+    print()
